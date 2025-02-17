@@ -19,7 +19,6 @@ This system enables efficient **management of vehicle records** using a structur
 The program also enhances **user experience** with:  
 🔹 **ASCII Art UI** – Displays styled text from external files  
 🔹 **File Handling** – Reads descriptions and menu elements from files  
-🔹 **Sound Feedback** – Beeps when selecting menu options  
 
 ---
 
@@ -88,18 +87,26 @@ vehicle_manager.exe
 
 ---
 
-## 📜 Example Menu Output:
+## 📜 Example Main Menu Output:
 ```
-===================================
-      VEHICLE MANAGEMENT SYSTEM
-===================================
--> 1. Add a new vehicle
-   2. Edit vehicle details
-   3. Delete a vehicle
-   4. View all vehicles
-   5. Search for a vehicle
-   6. Filter by vehicle type
-   0. Exit
+                                                                       ____________________________________________________________________
+                                                                      |  ________________________________________________________________  |
+                                                                      | |                                                                | |
+                                                                      | |  Hello! Welcome to Motor Manage Deluxe, the ultimate solution  | |
+                                                                      | |  for efficient vehicle management! Say goodbye to tedious      | |
+                                                                      | |  paperwork and manual tracking.                                | |
+                                                                      | |                                                                | |
+                                                                      | |  <Enter (1) to Add Vehicle>                                    | |
+                                                                      | |  <Enter (2) to Edit Vehicle>                                   | |
+                                                                      | |  <Enter (3) to Delete Vehicle>                                 | |
+                                                                      | |  <Enter (4) to Display All Vehicles>                           | |
+                                                                      | |  <Enter (5) to Search Vehicle>                                 | |
+                                                                      | |  <Enter (6) to Filter Vehicles by Type>                        | |
+                                                                      | |  <Enter (0) to Exit>                                           | |
+                                                                      | |________________________________________________________________| |
+                                                                      |____________________________________________________________________|
+
+                                                                            Enter Choice: 
 ```
 
 ---
