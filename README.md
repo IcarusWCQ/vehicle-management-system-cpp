@@ -127,7 +127,41 @@ Condition: 85%
 Price: RM120,000.00
 Number of Wheels: 4
 ---------------------------------
+
+---------------------------------
+Vehicle 2:
+---------------------------------
+Type: Air
+Name: Boeing 737
+Manufacturing Year: 2015
+Engine Type: Jet
+Weight: 41000 kg
+Seating Capacity: 200 seats
+Cargo Capacity: 20000 kg
+Condition: 75%
+Price: RM75,000,000.00
+Max Altitude: 12,000 meters
+---------------------------------
+
+---------------------------------
+Vehicle 3:
+---------------------------------
+Type: Sea
+Name: Titanic
+Manufacturing Year: 1912
+Engine Type: Steam
+Weight: 52310 kg
+Seating Capacity: 3300 seats
+Cargo Capacity: 40000 kg
+Condition: 30%
+Price: RM1,200,000.00
+Displacement: 52,310 kg
+---------------------------------
+
 ```
+
+
+
 
 ---
 
